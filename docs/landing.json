@@ -1,0 +1,24 @@
+{
+  "seo_title": "Free break reminder for macOS",
+  "seo_description": "BreakNudgeTimer is a free, open-source macOS menu bar app that dims your screen for micro and long breaks, so you rest your eyes on a steady schedule.",
+  "hero_title_line1": "Rest your eyes.",
+  "hero_title_accent": "Keep your focus.",
+  "hero_sub": "BreakNudgeTimer lives in your menu bar, counts only the time you are actually working, and dims every display with a calm countdown when it is time for a break.",
+  "features_title": "Breaks that fit your day.",
+  "features_sub": "Two repeating break types, a gentle overlay, and timing that follows your real activity.",
+  "features": [
+    {"icon": "clock", "title": "Micro and long breaks", "desc": "Defaults are 20 seconds every 20 minutes and 5 minutes every 60 minutes. Interval, duration and message are configurable for each."},
+    {"icon": "display", "title": "Overlay on every display", "desc": "A blurred, dimmed window with a large countdown, your message and a progress bar fades in on each connected screen."},
+    {"icon": "eye", "title": "Counts only active time", "desc": "Work time accrues only while you are not idle. Staying away for a set number of minutes resets the timers, and sleep or screen lock can count as a break."},
+    {"icon": "cursor", "title": "Menu bar countdown", "desc": "See the time to the next break at a glance. Take a break now, pause for an hour or until tomorrow, or skip the next one."},
+    {"icon": "bell", "title": "Heads-up before a break", "desc": "An optional notification arrives 30 seconds ahead, and a sound can play when the break ends. Skip and Postpone 5 Minutes buttons are toggleable."},
+    {"icon": "shield", "title": "Never traps you", "desc": "Esc always dismisses the overlay unless you turn on strict mode, which still ends when the timer runs out. Breaks can be skipped while displays are mirrored or an app is full screen."}
+  ],
+  "permissions_step": "Allow notifications when prompted if you want the 30-second heads-up; if you turn on Launch at login, macOS may list the app under System Settings > General > Login Items.",
+  "faq": [
+    {"q": "Is BreakNudgeTimer really free and open source?", "a": "Yes. It is released under the MIT license, with no accounts, subscriptions, analytics or network calls. The full source is on GitHub, and a Ko-fi button is there if you want to support development."},
+    {"q": "What permissions does it need?", "a": "Only notifications, and only for the optional pre-break heads-up. If you deny them, breaks still appear as an overlay. It does not ask for Accessibility, Screen Recording or Microphone access."},
+    {"q": "Where is my data stored?", "a": "Your settings are stored locally on your Mac in the app's preferences. Nothing is sent anywhere, and the app makes no network connections."},
+    {"q": "Why is the app not notarized?", "a": "Notarization requires a paid Apple Developer account, and this is a free project. Right-click the app and choose Open once to get past Gatekeeper, or build it yourself from source with Xcode."}
+  ]
+}

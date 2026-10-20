@@ -1,5 +1,7 @@
 # BreakNudgeTimer
 
+**🌐 Website:** [turhe123.github.io/break-nudge-timer](https://turhe123.github.io/break-nudge-timer/)
+
 Gentle micro-breaks and long breaks that dim your screen, count down and remind you to rest your eyes.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -30,7 +32,17 @@ BreakNudgeTimer is a free, open-source, 100% native, backend-free alternative to
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-break-overlay.png" alt="Full-screen micro break overlay with a 0:17 countdown" width="720"></p>
+
+<p align="center"><em>A micro break dims the whole screen with a large countdown, your reminder message, a progress bar, and optional Postpone and Skip buttons.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-menu.png" alt="BreakNudgeTimer menu bar menu" width="560"></p>
+
+<p align="center"><em>The menu bar menu shows when the next break is due and lets you take a break now, pause, or skip the next one.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-settings.png" alt="BreakNudgeTimer Settings window" width="560"></p>
+
+<p align="center"><em>Settings let you choose the interval, duration and message for both micro and long breaks.</em></p>
 
 ## Install
 

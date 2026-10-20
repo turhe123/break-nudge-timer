@@ -1,0 +1,5 @@
+[
+  {"file":"01-break-overlay.png","caption":"A micro break dims the whole screen with a large countdown, your reminder message, a progress bar, and optional Postpone and Skip buttons.","alt":"Full-screen micro break overlay with a 0:17 countdown"},
+  {"file":"02-menu.png","caption":"The menu bar menu shows when the next break is due and lets you take a break now, pause, or skip the next one.","alt":"BreakNudgeTimer menu bar menu"},
+  {"file":"03-settings.png","caption":"Settings let you choose the interval, duration and message for both micro and long breaks.","alt":"BreakNudgeTimer Settings window"}
+]
